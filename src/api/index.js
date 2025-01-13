@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://food-server-hdta.onrender.com/api/",
+  baseURL: "https://food-server-h7wn.onrender.com/api/",
 });
 
 //auth
